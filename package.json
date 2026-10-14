@@ -1,0 +1,22 @@
+{
+  "name": "llm-text-summarizer",
+  "version": "1.0.0",
+  "description": "A small OpenAI-powered text summarization example with input limits, timeout handling, and safer prompting.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "openai",
+    "llm",
+    "summarization",
+    "prompt-engineering",
+    "nodejs"
+  ],
+  "author": "Eman Barakat",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.79.0"
+  }
+}
