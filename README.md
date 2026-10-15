@@ -60,6 +60,7 @@ llm-text-summarizer/
 - The input is limited to 2,000 characters.
 - The API request is aborted after 20 seconds.
 - This is a learning/portfolio example, not a production service.
+- The cleaned version was statically reviewed but not runtime-tested as part of the portfolio cleanup.
 
 ## Author
 
