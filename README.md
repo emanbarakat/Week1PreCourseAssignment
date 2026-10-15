@@ -1,6 +1,6 @@
 # LLM Text Summarizer
 
-A small Node.js project that summarizes a paragraph into one concise sentence using the OpenAI API.
+A small Node.js learning project that summarizes a paragraph into one concise sentence using the OpenAI API.
 
 The project focuses on writing a safer and more structured LLM API call rather than just sending a prompt.
 
@@ -46,7 +46,7 @@ The script asks the model to:
 ## Project Structure
 
 ```text
-Week1PreCourseAssignment/
+llm-text-summarizer/
 ├── app.js
 ├── package.json
 ├── .env.example
